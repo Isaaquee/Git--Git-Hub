@@ -1,4 +1,10 @@
-	Git - Vercionamento local na maquina
+
+Git Github
+Isaaquee
+Vir@copo$.10
+
+
+Git - Vercionamento local na maquina
 
 GitHub - Disponibilização dos códigos
 
@@ -39,7 +45,4 @@ Colaboração
 Forks
 
 
-Git Github
-Isaaquee
-Vir@copo$.10
 

@@ -1,0 +1,45 @@
+	Git - Vercionamento local na maquina
+
+GitHub - Disponibilização dos códigos
+
+Para que serve o Git ? 
+VSC - Versionamento de (Software de controle de versão)
+
+CVS - Concurrent Version System
+Bitkeeper - 
+Git -
+
+Exemplo de versionamento: 
+Organizar toda criação, 
+html 
+audio
+imagem
+videos
+criar um backup, apartir do ponto que foi informado pelo cliente.
+
+Vantagens
+
+Controle de historico 
+Trabalho em equipe
+Ramificação do projeto 
+Segurança
+Organização
+
+aprender sobre backend frontend 
+
+
+GitHub
+Plataforma de rede social para programadores
+
+Repositórios ilimitados
+Hospadagem de codigo-fonte
+Caracteristicas de rede social
+GitHub Pages integrado "HTML,JAVASCRIPT,CSS."
+Colaboração
+Forks
+
+
+Git Github
+Isaaquee
+Vir@copo$.10
+

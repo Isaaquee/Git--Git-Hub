@@ -1,2 +1,3 @@
 # Git, Git Hub
- Primeiro repositorio 
+ Primeiro repositorio, criado em aula.
+ 
